@@ -1,3 +1,3 @@
-# openApi
+# MyMoneyManager
 
-Spring Boot open api
+Jhipster application for Money
